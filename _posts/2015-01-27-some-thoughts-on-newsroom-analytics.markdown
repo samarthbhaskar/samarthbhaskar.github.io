@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Some thoughts on newsroom analytics"
-date: 2015-01-27
+title: Some thoughts on newsroom analytics
 ---
 
 # Some thoughts on newsroom analytics
