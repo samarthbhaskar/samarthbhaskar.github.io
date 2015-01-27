@@ -2,9 +2,6 @@
 layout: post
 title: Some thoughts on newsroom analytics
 ---
-
-# Some thoughts on newsroom analytics
-
 I recently left my job at [Etsy](www.etsy.com) as a data analyst to join the newsroom at the [New York Times](www.nytimes.com). In addition to being sad to leave Etsy, and learning *a lot* in my 2 years there, I'm very excited to work with talented journalists and technologists at the Times to help usher the organization into a new era. 
 
 I've only made it to day-2 but I thought I'd take a moment to write down some thoughts about starting on this new endeavor. 
