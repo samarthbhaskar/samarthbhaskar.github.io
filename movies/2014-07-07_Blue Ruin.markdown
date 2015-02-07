@@ -1,6 +1,0 @@
----
-layout: post
-title: Blue Ruin 
-date:  2014-07-07 
----
- Understated but effective
