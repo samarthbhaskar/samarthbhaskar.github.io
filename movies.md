@@ -1,8 +1,7 @@
-------
+---
 layout: page
 title: Movies
------
-
+---
 * [Rosemarys Baby](/movies/2015-02-08-Rosemarys Baby.markdown)
 * [Ida](/movies/2015-02-04-Ida.markdown)
 * [Enemy](/movies/2015-02-04-Enemy.markdown)
