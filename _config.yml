@@ -20,3 +20,4 @@ paginate:         5
 
 github:
   repo:          https://github.com/samarthbhaskar
+baseurl: 		 /
