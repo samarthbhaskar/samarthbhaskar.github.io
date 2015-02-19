@@ -3,11 +3,33 @@
   <channel>
     <title>Samarth Bhaskar</title>
     <description></description>
-    <link>//</link>
-    <atom:link href="//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Feb 2015 08:53:52 -0500</pubDate>
-    <lastBuildDate>Wed, 18 Feb 2015 08:53:52 -0500</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 19 Feb 2015 11:44:22 -0500</pubDate>
+    <lastBuildDate>Thu, 19 Feb 2015 11:44:22 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Response to &quot;What ISIS really wants&quot;</title>
+        <description>&lt;p&gt;The Atlantic had a cover story last month, which now looks to be deprecated. But here&amp;#39;s a &lt;a href=&quot;http://webcache.googleusercontent.com/search?q=cache:http://www.theatlantic.com/features/archive/2015/02/what-isis-really-wants/384980/&quot;&gt;cached version&lt;/a&gt;. The story was about ISIS and its religious underpinnings. My friend Arjun and I discussed it over email last night and I wanted to share some of my thoughts here. I&amp;#39;ve pasted my email to him below:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Princeton professor is a cool guy. If I remember correctly, he came to UIUC when I was studying Arabic/Middle Eastern studies and I enjoyed hearing him talk. There was a dude at UIUC who was very similar to him. Secular authority on Islam and Islamic history. The UIUC guy, Khalil, had some interesting things to say - he felt like he had to change the course of his research and scholarship to be more radicalism focused in order to compete for tenure track jobs. I think he was much more interested in other things about the Muslim world, but so it goes, I guess.&lt;/li&gt;
+&lt;li&gt;I think the author if this Atlantic piece did a pretty good job explaining major tenets of Islam. I was glad to see he differentiated (with some help from Haykel) between Islam and Muslims.&lt;/li&gt;
+&lt;li&gt;As he mentioned, the slow and protracted decline of ISIS is most likely what will happen, but what I’m interested in is what a future Islamic state looks like. Saudi has lost favor as the one true Islamic nation. Iran doesn’t get counted because is Shia. But I’m curious if there will be a future state that’ll be the Muslim equivalent of Israel. Israel was founded on very similar grounds. Zionism espouses some of the same tenets as al-Baghdadi’s Salafism. But Zionism, at least in its most severe form, turned out to be untenable (politically, economically, etc) for Israel, so they went down a more moderate road. [^1] Certainly they had the US’s backing, which helped them survive. I wonder if ISIS will find some sort of moderate version of itself too.&lt;/li&gt;
+&lt;li&gt;One thing that I thought was missing from this article was a sense of scale. In fact, that’s something I’ve had a hard time grasping anywhere. I don’t know if we’re talking about 500K citizens, a million, 10M? Talking to some strong advocates can have the unintended effect of making the movement seem a lot bigger in scale than it is. But again, I know they control a huge &lt;a href=&quot;http://www.nytimes.com/interactive/2014/06/12/world/middleeast/the-iraq-isis-conflict-in-maps-photos-and-video.html?_r=0&amp;amp;pagewanted=all&quot;&gt;swathe&lt;/a&gt; of territory between Syria and Iraq but I don’t know how many people we’re talking about. Part of me thinks that there’s some natural ceiling that they’ll hit, after which they’ll have to start becoming more moderate. Because creating social services, a viable economy, etc for a group of thousands is very different than doing that for hundreds of thousands.&lt;/li&gt;
+&lt;li&gt;Dave Chappelle had a really funny joke about ISIS/radical Islam on Monday night when I saw him. He was like “ISIS is like the Tupac of religions. It’s like “YO WHAT, I GO SO HARD MOTHERF**. COME AT ME.” It’s hard to convey over email, but he captured the sentiment really well. And like Tupac, at least younger Tupac, that level of bravado is something that goes away with age. Maybe ISIS will mature out of this stage. Unfortunately their “immaturity” manifests in severed heads, slaves, beaten women, etc.&lt;/li&gt;
+&lt;li&gt;The author’s description of his conversations with the English and Australian extremists was really interesting. When people betray a strong confidence, have an answer to everything and can convince you, I find that really fascinating. I’m not that confident about anything in my life. I almost envy it. They’ve bought into it wholesale. Muslim communities in the US and elsewhere are having a hard time counteracting online recruitment of young men and women. It’s hard to come back to “we have a strong and principled view about everything” with “well, things are complicated.” It’s not as convincing an argument.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[^1]: that’s probably one of the only times you’ll hear me describe Israel as moderate.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Feb 2015 00:00:00 -0500</pubDate>
+        <link>/2015/02/19/what-isis-really-wants/</link>
+        <guid isPermaLink="true">/2015/02/19/what-isis-really-wants/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Some thoughts on newsroom analytics</title>
@@ -34,8 +56,8 @@
 &lt;p&gt;I&amp;#39;m excited to take on this challenge. I&amp;#39;m passionate about seeing the NYTimes survive into the digital age. I&amp;#39;m convinced that the type of journalistic expertise the Times has developed over its 150 year history deserves an audience in our new media landscape. And I&amp;#39;m thankful to have learned what I learned in the last 2 years to help me get started.&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Jan 2015 00:00:00 -0500</pubDate>
-        <link>//2015/01/27/some-thoughts-on-newsroom-analytics/</link>
-        <guid isPermaLink="true">//2015/01/27/some-thoughts-on-newsroom-analytics/</guid>
+        <link>/2015/01/27/some-thoughts-on-newsroom-analytics/</link>
+        <guid isPermaLink="true">/2015/01/27/some-thoughts-on-newsroom-analytics/</guid>
         
         
       </item>
@@ -128,8 +150,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 29 Jul 2014 08:24:48 -0400</pubDate>
-        <link>//grad%20school/2014/07/29/a-few-words-about-my-experience-at-mapss-uchicago/</link>
-        <guid isPermaLink="true">//grad%20school/2014/07/29/a-few-words-about-my-experience-at-mapss-uchicago/</guid>
+        <link>/grad%20school/2014/07/29/a-few-words-about-my-experience-at-mapss-uchicago/</link>
+        <guid isPermaLink="true">/grad%20school/2014/07/29/a-few-words-about-my-experience-at-mapss-uchicago/</guid>
         
         
         <category>grad school</category>
@@ -151,8 +173,8 @@
 &lt;p&gt;Lest I seem to sure of myself, let me clarify that I have no idea what the right answer is. I don&#39;t think it&#39;s bad that people are trying to solve world hunger, but I do think it is bad that it often stops here.&lt;/p&gt;
 </description>
         <pubDate>Tue, 22 Jul 2014 20:47:19 -0400</pubDate>
-        <link>//culture%20and%20society/technology/2014/07/22/an-unsolicited-thought-about-soylent/</link>
-        <guid isPermaLink="true">//culture%20and%20society/technology/2014/07/22/an-unsolicited-thought-about-soylent/</guid>
+        <link>/culture%20and%20society/technology/2014/07/22/an-unsolicited-thought-about-soylent/</link>
+        <guid isPermaLink="true">/culture%20and%20society/technology/2014/07/22/an-unsolicited-thought-about-soylent/</guid>
         
         
         <category>culture and society</category>
@@ -169,8 +191,8 @@
 &lt;p&gt;I have found these habits to be very helpful in alleviating anxiety in my day to day life as well. Focusing on the future, thinking about next steps, evaluating experiences in terms of future rewards can be very anxiety provoking. I have talked with peers about these feelings too, and I imagine anxiety about the future is prevalent among many people. I have tried my best to focus on the present when moments like this arise for me. Taking pleasure in the moment you&#39;re in, addressing facts and feelings as you know them now, trying your best not to count backward from some imagined future can go a long way in decreasing some of the anxiety caused by a hyper competitive, status minded, fatigue lauding world. There are a lot of things to be said about why we live in a world like this (from perspectives found in economics, sociology, psychology, philosophy, so on and so on), but that&#39;s a discussion about causes. I have found that in the mean time, this tactic of focusing on the present, can be helpful in treating at least this symptom.&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Jun 2014 19:03:33 -0400</pubDate>
-        <link>//life/2014/06/09/why-i-meditate-and-participate-in-endurance-sports/</link>
-        <guid isPermaLink="true">//life/2014/06/09/why-i-meditate-and-participate-in-endurance-sports/</guid>
+        <link>/life/2014/06/09/why-i-meditate-and-participate-in-endurance-sports/</link>
+        <guid isPermaLink="true">/life/2014/06/09/why-i-meditate-and-participate-in-endurance-sports/</guid>
         
         
         <category>life</category>
@@ -187,8 +209,8 @@
 &lt;p&gt;Appetite: re-whetted.&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Nov 2013 18:35:14 -0500</pubDate>
-        <link>//commentary%20on%20works/social%20science/technology/2013/11/03/douglas-hofstadters-unrelenting-quest-to-replicate-the-human-mind/</link>
-        <guid isPermaLink="true">//commentary%20on%20works/social%20science/technology/2013/11/03/douglas-hofstadters-unrelenting-quest-to-replicate-the-human-mind/</guid>
+        <link>/commentary%20on%20works/social%20science/technology/2013/11/03/douglas-hofstadters-unrelenting-quest-to-replicate-the-human-mind/</link>
+        <guid isPermaLink="true">/commentary%20on%20works/social%20science/technology/2013/11/03/douglas-hofstadters-unrelenting-quest-to-replicate-the-human-mind/</guid>
         
         
         <category>commentary on works</category>
@@ -206,8 +228,8 @@
 &lt;p&gt;I really enjoyed putting words and order to my thoughts on this subject. If you&#39;ve followed my Twitter feed at any point in time, you can tell me affinity for all different domains of knowledge. Here&#39;s to more years of consumption, production, exploration and expansion.&lt;/p&gt;
 </description>
         <pubDate>Tue, 22 Oct 2013 20:34:44 -0400</pubDate>
-        <link>//2013/10/22/etsy-ignite-the-importance-of-interdisciplinary-thinking/</link>
-        <guid isPermaLink="true">//2013/10/22/etsy-ignite-the-importance-of-interdisciplinary-thinking/</guid>
+        <link>/2013/10/22/etsy-ignite-the-importance-of-interdisciplinary-thinking/</link>
+        <guid isPermaLink="true">/2013/10/22/etsy-ignite-the-importance-of-interdisciplinary-thinking/</guid>
         
         <category>Etsy</category>
         
@@ -230,8 +252,8 @@
 &lt;p&gt;The final portion of this article is the most interesting to me. In it, Norvig describes and gives some of his thoughts on the two cultures of modeling: data modeling and algorithmic modeling. The section is too long to quote here, but I highly recommend it.&lt;/p&gt;
 </description>
         <pubDate>Sun, 13 Oct 2013 20:52:08 -0400</pubDate>
-        <link>//commentary%20on%20works/data%20science/social%20science/technology/2013/10/13/peter-norvig-responds-to-chomsky/</link>
-        <guid isPermaLink="true">//commentary%20on%20works/data%20science/social%20science/technology/2013/10/13/peter-norvig-responds-to-chomsky/</guid>
+        <link>/commentary%20on%20works/data%20science/social%20science/technology/2013/10/13/peter-norvig-responds-to-chomsky/</link>
+        <guid isPermaLink="true">/commentary%20on%20works/data%20science/social%20science/technology/2013/10/13/peter-norvig-responds-to-chomsky/</guid>
         
         
         <category>commentary on works</category>
@@ -260,8 +282,8 @@
 &lt;p&gt; &lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Oct 2013 19:07:00 -0400</pubDate>
-        <link>//2013/10/07/ive-got-nothing-to-hide-and-other-misunderstandings-of-privacy/</link>
-        <guid isPermaLink="true">//2013/10/07/ive-got-nothing-to-hide-and-other-misunderstandings-of-privacy/</guid>
+        <link>/2013/10/07/ive-got-nothing-to-hide-and-other-misunderstandings-of-privacy/</link>
+        <guid isPermaLink="true">/2013/10/07/ive-got-nothing-to-hide-and-other-misunderstandings-of-privacy/</guid>
         
         <category>NSA</category>
         
@@ -278,8 +300,8 @@
 &lt;p&gt;Addendum: I wrote a longer post about my experience at MAPSS, you can find that &lt;a href=&quot;http://samarthbhaskar.wordpress.com/2014/07/29/a-few-words-about-my-experience-at-mapss-uchicago/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 31 May 2013 08:46:34 -0400</pubDate>
-        <link>//talks/2013/05/31/uchicago-mapss-alumni-talk/</link>
-        <guid isPermaLink="true">//talks/2013/05/31/uchicago-mapss-alumni-talk/</guid>
+        <link>/talks/2013/05/31/uchicago-mapss-alumni-talk/</link>
+        <guid isPermaLink="true">/talks/2013/05/31/uchicago-mapss-alumni-talk/</guid>
         
         <category>macprime</category>
         
@@ -289,29 +311,6 @@
         
         
         <category>talks</category>
-        
-      </item>
-    
-      <item>
-        <title>H.L. Mencken and Pixar&#39;s RATATOUILLE on criticism</title>
-        <description>&lt;p&gt;I remember after I saw &lt;a href=&quot;http://www.imdb.com/title/tt0382932/&quot;&gt;Ratatouille&lt;/a&gt; in 2007, I was thinking a lot about criticism and the role of critics in the art landscape. Without spoiling much, a pivotal character in the film is Anton Ego, the food critic who is known to be impressed by nothing but holds Parisian attention hostage on the matter of the best food in Paris. Ego (a moniker that deserves consideration in itself; Is he consumed by his own conception of himself? Were the writers commenting perhaps on Freudian concept of the ego, or maybe even Lacanian concepts? Who knows) is vilified throughout the entire film but ends up being the final release we get as an audience, when he falls in love with our chefs Remi and Linguini&#39;s cooking.&lt;/p&gt;
-&lt;p&gt;At the time of viewing, I remember thinking - what in the world gave Ego (or critics at large) such power that he gets to decide what is or isn&#39;t good art? Why isn&#39;t art democratic? What about the hundreds of people who love the art that Remy and Linguini (or artists) create? Since then I&#39;ve had a number of conversations with friends about the role of criticism in society. And I&#39;ve even had periods where I&#39;ll only read a particular film or literature critic, or swear off of criticism all together, or some combination in between.&lt;/p&gt;
-&lt;p&gt;Today, I ran across &lt;a href=&quot;http://vserver1.cscs.lsa.umich.edu/~crshalizi/Mencken/criticism-of-criticism-of-criticism/&quot;&gt;this essay by H.L. Mencken&lt;/a&gt; (who, in interest of full disclosure, I was first introduced to because of the ending quote on the last episode of THE WIRE). In it, he introduces a pretty compelling definition of and case for criticism. This snippet summed it up well for me:&lt;/p&gt;
-&lt;blockquote&gt;&lt;address&gt;It is [the critic&#39;s] business to provoke the reaction between the work of art and the spectator. The spectator, untutored, stands unmoved; he sees the work of art, but it fails to make any intelligible impression on him; if he were spontaneously sensitive to it, there would be no need for criticism. But now comes the critic with his catalysis. He makes the work of art live for the spectator; he makes the spectator live for the work of art. Out of the process comes understanding, appreciation, intelligent enjoyment --- and that is precisely what the artist tried to produce.&lt;/address&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;I don&#39;t know if I&#39;ve come across too many such critics, at least in the areas of art that I access all the time (books, films, music). However, when I do come across such critical works, they become very meaningful very quickly. I don&#39;t know if Ego in Ratatouille ever gave us this, but perhaps the sequence of him remembering his childhood and his mother&#39;s cooking was the closest we got.&lt;/p&gt;
-&lt;p&gt;In the controversy surrounding the Allen Ginsburg poem &quot;&lt;a href=&quot;https://www.poets.org/viewmedia.php/prmMID/15308&quot;&gt;Howl&lt;/a&gt;&quot;, one critic on the witness stand when asked about the meaning of specific words or sentences in the poem said something like &quot;well, that&#39;s why poetry is poetry. It&#39;s not prose. It can&#39;t easily be explained in prose.&quot; I think that&#39;s what a good critic can sometimes do. S/he can turn poetry into prose.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 27 Jan 2013 10:56:01 -0500</pubDate>
-        <link>//commentary%20on%20works/culture%20and%20society/movies/2013/01/27/h-l-mencken-and-pixars-ratatouille-on-criticism/</link>
-        <guid isPermaLink="true">//commentary%20on%20works/culture%20and%20society/movies/2013/01/27/h-l-mencken-and-pixars-ratatouille-on-criticism/</guid>
-        
-        
-        <category>commentary on works</category>
-        
-        <category>culture and society</category>
-        
-        <category>movies</category>
         
       </item>
     
