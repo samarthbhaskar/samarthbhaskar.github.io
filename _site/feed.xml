@@ -5,9 +5,30 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Mar 2015 08:29:04 -0500</pubDate>
-    <lastBuildDate>Sun, 01 Mar 2015 08:29:04 -0500</lastBuildDate>
+    <pubDate>Sun, 15 Mar 2015 22:03:17 -0400</pubDate>
+    <lastBuildDate>Sun, 15 Mar 2015 22:03:17 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Knausgaard on immigration</title>
+        <description>&lt;p&gt;In &lt;a href=&quot;http://www.nytimes.com/2015/03/15/magazine/karl-ove-knausgaards-passage-through-america.html?hp&amp;amp;action=click&amp;amp;pgtype=Homepage&amp;amp;module=second-column-region&amp;amp;region=top-news&amp;amp;WT.nav=top-news&amp;amp;_r=1&amp;amp;pagewanted=all&quot;&gt;part 2&lt;/a&gt; of Karl Ove Knausgaard&amp;#39;s NYTimes magazine feature, the author - most famously of a 6-part &lt;a href=&quot;http://en.wikipedia.org/wiki/My_Struggle_%28Knausg%C3%A5rd_novels%29&quot;&gt;memoir&lt;/a&gt; - writes about immigration. His assignment has been to trace the paths that Vikings and early Norwegians took in America, first arriving in Newfoundland and then settling in mainland America. &lt;/p&gt;
+
+&lt;p&gt;Karl Ove is still uncomfortable in America. He&amp;#39;s still unsure what to even make of his journey. But one thing is clear, his time in America is going to be spent as a Norwegian and will most likely be limited. That emotional distance allows him to think critically about American culture and American emigration. &lt;/p&gt;
+
+&lt;p&gt;This definition of culture, especially in the context of an American immigrant trying to assimilate, rung very true for me.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;What is culture, if not a set of prejudices? A set of unformulated and unconscious rules and ways of behavior that every member of a given society nonetheless immediately recognizes and accepts?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Karl Ove is thinking of and writing about his ancestors and older family members settling here. This is exactly the kind of cultural shift I went through as an immigrant. In fact, my family and I ended up at the end of that transition absorbing all manner of American prejudices, a lot of which were targeted right back at Indian-American immigrants. That&amp;#39;s something about immigrant communities I have never understood - how quick we are to put down other immigrants behind us in the assimilation process. What a shame, that we can&amp;#39;t extend courtesy and comfort to our compatriots, the same that we were denied merely a few years before.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Mar 2015 00:00:00 -0400</pubDate>
+        <link>/2015/03/15/knausgaard-on-immigration/</link>
+        <guid isPermaLink="true">/2015/03/15/knausgaard-on-immigration/</guid>
+        
+        
+      </item>
     
       <item>
         <title>On Kanye West and black ambition</title>
@@ -301,32 +322,6 @@
         
         <category>video</category>
         
-        
-      </item>
-    
-      <item>
-        <title>PETER NORVIG RESPONDS TO CHOMSKY</title>
-        <description>&lt;p style=&quot;text-align:center;&quot;&gt;&lt;a href=&quot;http://samarthbhaskar.files.wordpress.com/2013/10/screen-shot-2013-10-13-at-10-48-45-pm1.png&quot;&gt;&lt;img class=&quot; wp-image aligncenter&quot; id=&quot;i-1005&quot; alt=&quot;Image&quot; src=&quot;assets/screen-shot-2013-10-13-at-10-48-45-pm1.png?w=650&quot; width=&quot;585&quot; height=&quot;413&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Peter Norvig in a response to Noam Chomsky, wrote a &lt;a href=&quot;http://norvig.com/chomsky.html&quot; rel=&quot;nofollow&quot;&gt;lengthy essay&lt;/a&gt; on his blog. In it he described and engaged with Chomsky&#39;s claim that &quot;researchers in machine learning who use purely statistical methods to produce behavior that mimics something in the world, but who don&#39;t try to understand the meaning of that behavior.&quot;&lt;/p&gt;
-&lt;p&gt;In so doing, Norvig provided some great examples of statistical models can and cannot do. Before he approached the ultimate question, &quot;are models that try to approximate meaning in language using statistics useful?&quot;, he set up a pretty great explanation of the ways in which statistical models are used. Some key passages are below.&lt;/p&gt;
-&lt;p&gt;While talking about the inferential power of statistical models, Norvig took the example of the ideal gas law (&lt;em&gt;P = N k T / V&lt;/em&gt;). About this model Norvig says&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;This model ignores that complexity and summarizes our uncertainty about the location of individual molecules. Thus, even though it is statistical and probabilistic, even though it does not completely model reality, it does provide both good predictions and insight—insight that is not available from trying to understand the true movements of individual molecules. I think this is a great way to separate what models can and cannot do.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Later, Norvig makes an engineering, or performance based, case for statistical linguistic models instead of logical ones, which I thought was interesting but somewhat missed the point of what Chomsky&#39;s original complaint was. None the less, he finishes out the blog post by approaching the scientific premise upon which Chomsky built his argument and engaging with that.&lt;/p&gt;
-&lt;p&gt;Norvig suggests that Chomsky&#39;s argument or theory is categorical, and cannot account for gradience like a statistical model can. Even a naive Markov-chain model can be graded according to the probability or extreme-improbability of a sentence or phrase occurring. This gives far more power for insight than the type of logical model that Chomsky might embrace. Norvig says &quot;Chomsky&#39;s theory, being categorical, cannot make this distinction; all it can distinguish is grammatical/ungrammatical.&lt;/p&gt;
-&lt;p&gt;The final portion of this article is the most interesting to me. In it, Norvig describes and gives some of his thoughts on the two cultures of modeling: data modeling and algorithmic modeling. The section is too long to quote here, but I highly recommend it.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 13 Oct 2013 20:52:08 -0400</pubDate>
-        <link>/commentary%20on%20works/data%20science/social%20science/technology/2013/10/13/peter-norvig-responds-to-chomsky/</link>
-        <guid isPermaLink="true">/commentary%20on%20works/data%20science/social%20science/technology/2013/10/13/peter-norvig-responds-to-chomsky/</guid>
-        
-        
-        <category>commentary on works</category>
-        
-        <category>data science</category>
-        
-        <category>social science</category>
-        
-        <category>technology</category>
         
       </item>
     
