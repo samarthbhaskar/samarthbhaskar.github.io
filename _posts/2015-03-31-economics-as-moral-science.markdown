@@ -3,8 +3,6 @@ layout: post
 title: The Problem of Value - Economics as a Moral Science
 ---
 
-<iframe width="420" height="315" src="https://vimeo.com/122591452" frameborder="0" allowfullscreen></iframe>
-
 A couple of weeks ago, the New York Review of Books Foundation held a conference about economics. The title of the conference was “What’s Wrong with the Economy and with Economics?” The conference featured academics and public intellectuals giving short talks and engaging in debates about modern day macro-economic trends. All the videos from the conference are available on the [NYRB] site. 
 
 I started by watching a panel on The Problem of Value: Economics as a Moral Science. This [video] features a panel moderated by Itamar Rabinovich, with talks by Greta Brochmann from the University of Oslo, Richard Sennett of NYU and Jeremy Waldron also of NYU. Each speaker gave a short talk on their interpretation of the place of "value" in economic analysis. They all had different takes on the topic, but each I enjoyed.
