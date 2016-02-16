@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-pygments:         true
+highlighter:         true
 
 # Permalinks
 permalink:        pretty
@@ -14,6 +14,7 @@ author:
   name:           'Samarth Bhaskar'
   url:            https://twitter.com/samarthbhaskar
 
+gems:             [jekyll-paginate]
 paginate:         5
 
 # Custom vars
