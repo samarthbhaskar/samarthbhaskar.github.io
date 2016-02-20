@@ -2,6 +2,8 @@
 layout: page 
 title: Movie Reviews 
 ---
+*   [Mustang](http://letterboxd.com/samarthbhaskar/film/mustang-2015/)
+*   [The Crying Game](http://letterboxd.com/samarthbhaskar/film/the-crying-game/)
 *   [Deadpool](http://letterboxd.com/samarthbhaskar/film/deadpool/)
 *   [The Insider](http://letterboxd.com/samarthbhaskar/film/the-insider/)
 *   [Heat](http://letterboxd.com/samarthbhaskar/film/heat-1995/)
