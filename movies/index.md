@@ -1,6 +1,6 @@
---- 
-layout: page 
-title: Movie Reviews 
+---
+layout: page
+title: Movie Reviews
 ---
 *   [Mustang](http://letterboxd.com/samarthbhaskar/film/mustang-2015/)
 *   [The Crying Game](http://letterboxd.com/samarthbhaskar/film/the-crying-game/)
@@ -181,3 +181,5 @@ title: Movie Reviews
 *   [Olympus Has Fallen](http://letterboxd.com/samarthbhaskar/film/olympus-has-fallen/)
 *   [Magic Mike](http://letterboxd.com/samarthbhaskar/film/magic-mike/)
 *   [Dallas Buyers Club](http://letterboxd.com/samarthbhaskar/film/dallas-buyers-club/)
+
+
