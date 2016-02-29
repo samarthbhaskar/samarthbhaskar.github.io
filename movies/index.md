@@ -2,6 +2,10 @@
 layout: page
 title: Movie Reviews
 ---
+*   [Triple 9](http://letterboxd.com/samarthbhaskar/film/triple-9/)
+*   [The Girl on the Train](http://letterboxd.com/samarthbhaskar/film/the-girl-on-the-train/)
+*   [Magic Mike XXL](http://letterboxd.com/samarthbhaskar/film/magic-mike-xxl/)
+*   [99 Homes](http://letterboxd.com/samarthbhaskar/film/99-homes/)
 *   [Mustang](http://letterboxd.com/samarthbhaskar/film/mustang-2015/)
 *   [The Crying Game](http://letterboxd.com/samarthbhaskar/film/the-crying-game/)
 *   [Deadpool](http://letterboxd.com/samarthbhaskar/film/deadpool/)
