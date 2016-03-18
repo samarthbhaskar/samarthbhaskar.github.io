@@ -2,6 +2,9 @@
 layout: page
 title: Movie Reviews
 ---
+*   [London has Fallen](http://letterboxd.com/samarthbhaskar/film/london-has-fallen/)
+*   [10 Cloverfield Lane](http://letterboxd.com/samarthbhaskar/film/10-cloverfield-lane/)
+*   [Spy](http://letterboxd.com/samarthbhaskar/film/spy/)
 *   [Triple 9](http://letterboxd.com/samarthbhaskar/film/triple-9/)
 *   [The Girl on the Train](http://letterboxd.com/samarthbhaskar/film/the-girl-on-the-train/)
 *   [Magic Mike XXL](http://letterboxd.com/samarthbhaskar/film/magic-mike-xxl/)
