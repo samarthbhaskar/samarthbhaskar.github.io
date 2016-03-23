@@ -2,6 +2,8 @@
 layout: page
 title: Movie Reviews
 ---
+*   [Pitch Perfect 2](http://letterboxd.com/samarthbhaskar/film/pitch-perfect-2/)
+*   [Midnight Special](http://letterboxd.com/samarthbhaskar/film/midnight-special/)
 *   [London has Fallen](http://letterboxd.com/samarthbhaskar/film/london-has-fallen/)
 *   [10 Cloverfield Lane](http://letterboxd.com/samarthbhaskar/film/10-cloverfield-lane/)
 *   [Spy](http://letterboxd.com/samarthbhaskar/film/spy/)
