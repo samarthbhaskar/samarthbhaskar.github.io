@@ -2,7 +2,15 @@
 layout: page
 title: Movie Reviews
 ---
+*   [Krisha](http://letterboxd.com/samarthbhaskar/film/krisha-2015/)
+*   [The Wolfpack](http://letterboxd.com/samarthbhaskar/film/the-wolfpack/)
+*   [Everybody Wants Some!!](http://letterboxd.com/samarthbhaskar/film/everybody-wants-some/)
+*   [Knight of Cups](http://letterboxd.com/samarthbhaskar/film/knight-of-cups/)
+*   [Blue Velvet](http://letterboxd.com/samarthbhaskar/film/blue-velvet/)
+*   [I Used to Be Darker](http://letterboxd.com/samarthbhaskar/film/i-used-to-be-darker/)
+*   [Batman V Superman: Dawn of Justice](http://letterboxd.com/samarthbhaskar/film/batman-v-superman-dawn-of-justice/)
 *   [Pitch Perfect 2](http://letterboxd.com/samarthbhaskar/film/pitch-perfect-2/)
+*   [Something, Anything](http://letterboxd.com/samarthbhaskar/film/something-anything/)
 *   [Midnight Special](http://letterboxd.com/samarthbhaskar/film/midnight-special/)
 *   [London has Fallen](http://letterboxd.com/samarthbhaskar/film/london-has-fallen/)
 *   [10 Cloverfield Lane](http://letterboxd.com/samarthbhaskar/film/10-cloverfield-lane/)
