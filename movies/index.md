@@ -2,6 +2,12 @@
 layout: page
 title: Movie Reviews
 ---
+*   [Spirited Away](http://letterboxd.com/samarthbhaskar/film/spirited-away/)
+*   [Miles Ahead](http://letterboxd.com/samarthbhaskar/film/miles-ahead/)
+*   [The Jungle Book](http://letterboxd.com/samarthbhaskar/film/the-jungle-book-2016/)
+*   [Confirmation](http://letterboxd.com/samarthbhaskar/film/confirmation/)
+*   [Blood Simple](http://letterboxd.com/samarthbhaskar/film/blood-simple/)
+*   [My Neighbor Totoro](http://letterboxd.com/samarthbhaskar/film/my-neighbor-totoro/)
 *   [Krisha](http://letterboxd.com/samarthbhaskar/film/krisha-2015/)
 *   [The Wolfpack](http://letterboxd.com/samarthbhaskar/film/the-wolfpack/)
 *   [Everybody Wants Some!!](http://letterboxd.com/samarthbhaskar/film/everybody-wants-some/)
