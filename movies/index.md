@@ -2,6 +2,13 @@
 layout: page
 title: Movie Reviews
 ---
+*   [The Invitation](http://letterboxd.com/samarthbhaskar/film/the-invitation-2015/)
+*   [Swiss Army Man](http://letterboxd.com/samarthbhaskar/film/swiss-army-man/)
+*   [Blood Simple (rewatch)](http://letterboxd.com/samarthbhaskar/film/blood-simple/1/)
+*   [Bill Cunningham New York](http://letterboxd.com/samarthbhaskar/film/bill-cunningham-new-york/)
+*   [Hunt for Wilderpeople](http://letterboxd.com/samarthbhaskar/film/hunt-for-the-wilderpeople/)
+*   [The Neon Demon](http://letterboxd.com/samarthbhaskar/film/the-neon-demon/)
+*   [Popstar: Never Stop Never Stopping](http://letterboxd.com/samarthbhaskar/film/popstar-never-stop-never-stopping/)
 *   [The Fits](http://letterboxd.com/samarthbhaskar/film/the-fits/)
 *   [An Autumn Afternoon](http://letterboxd.com/samarthbhaskar/film/an-autumn-afternoon/)
 *   [Boy](http://letterboxd.com/samarthbhaskar/film/boy-2010/)
@@ -12,7 +19,7 @@ title: Movie Reviews
 *   [The Nice Guys](http://letterboxd.com/samarthbhaskar/film/the-nice-guys/)
 *   [Love & Friendship](http://letterboxd.com/samarthbhaskar/film/love-friendship/)
 *   [Dheepan](http://letterboxd.com/samarthbhaskar/film/dheepan/)
-*   [Blade Runnere: Director's Cut](http://letterboxd.com/samarthbhaskar/film/blade-runner/1/)
+*   [Blade Runner: Director's Cut](http://letterboxd.com/samarthbhaskar/film/blade-runner/1/)
 *   [Money Monster](http://letterboxd.com/samarthbhaskar/film/money-monster/)
 *   [Weekend](http://letterboxd.com/samarthbhaskar/film/weekend-2011/)
 *   [A Bigger Splash](http://letterboxd.com/samarthbhaskar/film/a-bigger-splash-2015/)

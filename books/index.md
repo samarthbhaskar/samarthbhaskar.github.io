@@ -2,6 +2,11 @@
 layout: page
 title: Book Reviews
 ---
+*   [An Unnecessary Woman](https://www.goodreads.com/review/show/1680087148?book_show_action=false)
+*   [The Sense of an Ending](https://www.goodreads.com/review/show/1680065499?book_show_action=false)
+*   [The Unprofessionals: New American Writing from The Paris Review](https://www.goodreads.com/review/show/1673961855?book_show_action=false)
+*   [Zero K](https://www.goodreads.com/review/show/1650448309?book_show_action=false)
+*   [Lords of Finance](https://www.goodreads.com/review/show/1639804772?book_show_action=false)
 *   [The Door](https://www.goodreads.com/review/show/1627311088?book_show_action=false)
 *   [The Argonauts](https://www.goodreads.com/review/show/1624321742?book_show_action=false)
 *   [The Association of Small Bombs](https://www.goodreads.com/review/show/1603442103)
