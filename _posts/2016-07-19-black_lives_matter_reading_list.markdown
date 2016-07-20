@@ -24,6 +24,7 @@ Writers:
 5. Jelani Cobb - academic and magazine writer. His long piece in the New Yorker this March on [BLM](http://www.newyorker.com/magazine/2016/03/14/where-is-black-lives-matter-headed) is a good start.
 6. Cornel West - he’s recently kind of gone off the deep end, but generally his writing is incisive, sharp and part of the [canon](https://www.nytimes.com/1993/04/27/books/books-of-the-times-rage-and-reason-in-the-crisis-of-black-america.html) of great contemporary writing on race relations. A profile [here](http://www.newyorker.com/magazine/2009/11/02/the-oracle-3).
 7. Wesley Morris - sports, culture, film writer. But his essays are often full of commentary on more than just sports or art. Like this [essay](https://www.nytimes.com/2016/06/17/arts/defining-and-proclaiming-a-new-black-power.html) from a few weeks ago that’s chock full of insights about changes in black culture and new black voices.
+8. bell hooks - academic, cultural critic, author. Mostly engagaged with feminism theory, post-modernism, capitalism, but race shows up in her work everywhere. Especially [Yearning](https://www.goodreads.com/book/show/385655.Yearning).
 
 Books:
 
