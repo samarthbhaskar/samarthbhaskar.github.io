@@ -1,0 +1,7 @@
+---
+layout: post
+title: An Obedient Father 
+date: 2015-06-30
+category: books
+---
+This is an easy-to-read, very difficult book. Sharma does not shy away from the ugliest, most difficult subjects but writes about them so fluidly that you find yourself going along at a steady clip, jaw dropping wider and wider. Much like the subjects of abuse in this book, the reader at times can feel like he's in an abusive relationship he just can't pull away from. That's not meant to demean or minimize actual abuse victims suffer. It's only meant to highlight how deftly Sharma captures abuse of all kind (institutional, familial, cultural, structural) and grabs your attention with it.<br/><br/>The portions of this book that deal with the machinations of corruption in India were less engaging in comparison to the personal stories. I say this as someone who is very interested (and relatively well informed) about Indian politics and Indian political history, especially post-Independence pre-globalized India. It seems it was hard for Sharma to turn his talents into the same success while talking about structural political and economic abuse as it was for him to talk about familial, personal abuse. <br/><br/>With this and his newer novel Family Life, I've developed a strong sense of respect and admiration for Sharma. He is one of the sharpest writers writing today. He brings me great hope as a fellow Indian American man, that some parts of my life and my experience may be immortalized through his gaze. 

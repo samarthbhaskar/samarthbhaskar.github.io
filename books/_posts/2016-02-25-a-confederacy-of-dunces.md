@@ -1,0 +1,7 @@
+---
+layout: post
+title: A Confederacy of Dunces 
+date: 2016-02-25
+category: books
+---
+<em>Confederacy of Dunces</em> is a satirical, farcical, often very funny novel, but one that mostly lacks an emotional or moral core until the last few pages. I don't often read satire in this vein so I can't properly situate this novel in its genre, but in comparison to more literary works, I found myself missing the less ironic, more wise parts of a story. <br/><br/>With that said, the crisp, witty, writing, the portrait of 1950s New Orleans, the real-life story of the author's suicide and posthumous publication and fame are all redeeming qualities of this book.<br/><br/>This assumption is not exactly based on a wide survey, mostly just reviews and ratings here on Goodreads, but <em>Confederacy</em> seems like a novel well built for straight, white, well-to-do men to like. No group of people believes more strongly that they are misunderstood geniuses, surrounded by idiots, and if only they were given the respect they deserved, everyone would see their charm and genius. I was hoping the author, John Kennedy Toole, would get around to lifting the curtain on Ignatius, but I think he was actually just in love with the pompous, overzealous, judgmental version of his character. In addition, Toole portrayed one-sided caricatures of black and poor characters. I just couldn't find where the satire and irony would meet something more meaningful and grounded. 

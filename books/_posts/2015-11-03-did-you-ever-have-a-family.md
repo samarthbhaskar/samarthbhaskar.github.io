@@ -1,0 +1,7 @@
+---
+layout: post
+title: Did You Ever Have a Family 
+date: 2015-11-03
+category: books
+---
+I got a chance to see Bill Clegg speak about this novel before I read it. During his talk he mentioned the way he wrote this book. Over the course of 7 years, Clegg took small breaks from his day job as a literary agent to head upstate and write the novel in a series of chapters that came to him about each character. Whenever he felt bored or like the voice of a character wasn't resonating, he'd stop writing about that character and pick up on another. This method becomes clear while reading this novel. Each chapter introduces or advances the story of a single character. Very little ink is devoted to interactions between characters, to the point that spoken dialog is italicized. The majority of this book unfolds the story by walking us through the inner lives of these characters.<br/><br/>Despite some frustrations about not caring about non-primary characters and a slow-to-unfold plot, Clegg delivers a beautiful, heartrending story about grief. <br/><br/>While reading the book, it wasn't clear to me why this novel was shortlisted for the Booker prize, or in the conversation for National Book Awards. But upon finishing, it became clear that Clegg used the entirety of the book to get his message across. I'm glad I stuck with the book, and upon finishing, very much agree that it should be in conversation for one of the best books of the year.
