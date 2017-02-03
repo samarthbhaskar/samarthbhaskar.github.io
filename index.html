@@ -4,18 +4,19 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
+  <ul class="page-list">
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        <h2><a class="about-link" href="/about/">About</a></h2>
       </li>
-    {% endfor %}
+      <li> 
+        <h2><a class="blog-link" href="/blog/">Blog</a></h2>
+      </li>
+      <li> 
+        <h2><a class="movies-link" href="/movies/">Movie Reviews</a></h2>
+      </li>
+      <li> 
+        <h2><a class="books-link" href="/books/">Book Reviews</a></h2>
+      </li>
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
