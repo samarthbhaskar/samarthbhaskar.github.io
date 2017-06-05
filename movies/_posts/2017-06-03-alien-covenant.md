@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2017-06-03 
-date: Alien Covenant
+title: Alien-Covenant
+date: 2017-06-03
 category: movies
 ---
  
