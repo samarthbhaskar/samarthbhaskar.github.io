@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2017-04-06 
-date: Campus Rape Frenzy
+title: Campus Rape Frenzy
+date: 2017-04-06
 category: books
 ---
 
