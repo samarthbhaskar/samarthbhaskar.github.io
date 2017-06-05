@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2017-03-22 
-date: Dave Chappelle - The Age of Spin
+title: Dave Chappelle - The Age of Spin
+date: 2017-03-22
 category: movies
 ---
  
