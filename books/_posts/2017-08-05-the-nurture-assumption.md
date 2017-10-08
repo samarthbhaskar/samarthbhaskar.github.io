@@ -1,0 +1,14 @@
+---
+layout: post
+title: The Nurture Assumption 
+date: 2017-08-05
+category: books
+---
+
+<em>The Nurture Assumption</em> is a fascinating, meticulous, well supported non-fiction account of why our cultural obsession with the importance of parenting is misplaced and unsupported by evidence. Judith Rich Harris' commitment to the scientific method, especially the concept of the null hypothesis and its rejection, is commendable. The added detail about her personal story as a one-time psychology grad student, turned home-maker and textbook writer, coming out with a book that fundamentally challenged decades of research and accepted wisdom in the academy and general society adds wonderful context to the book. Amateur intellectuals (I count myself as one) love to fancy themselves capable of doing the type of thing Harris was able to pull off.
+
+Causal evidence is hard to come by in social science, especially in fields like development psych. So making causal claims is difficult. Harris makes few causal claims in her work and is very careful to hedge her theories in precise language. But her book is lined with a lot of great data and builds a compelling argument overall. Namely, that parenting isn't as big of a deal in determining how a person becomes who they are, as our culture and even the academy would like to believe. 
+
+This is a hugely useful book for everyone. Parents, non-parents, expecting parents, new parents, all alike. Over the course of reading this book, I found myself talking about it with my family and friends. Everyone's reactions were the same. "Interesting theory, but I don't know if I believe it." Everyone seemed unnerved at the idea that they had little control over who their children became. This convinced me that Harris' argument is going up against decades of cultural and traditional weight, making her job very difficult. 
+
+I found her theories compelling because they lessened my anxieties about being a parents some day. But they did complicate other future decisions: namely, if I do have kids, picking where we live, where they go to school, who they are surrounded by, becomes a much more important decision. And I could see myself, or my partner and I, making choices or compromises which which I don't agree now but may feel more strongly about as a father. Specifically, I could see myself prioritizing living in a neighborhood or community with upper-middle class, educated, prosperous children and leaving behind communities with more diversity of background or lifestyle because of the outsized effect that my kids' peers will have on their lives. These types of decisions seem unthinkable to me now. I hope I have the foresight and commitment to not compromise these values when kids come into the picture.
