@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2018-07-11
-date: Ant Man and the Wasp
+title: Ant Man and the Wasp
+date: 2018-07-11
 category: movies
 ---
  
