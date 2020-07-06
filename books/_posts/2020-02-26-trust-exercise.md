@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trust Exercise
-date: 
+date: 2020-02-26
 category: books
 ---
 
