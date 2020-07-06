@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2019-11-23
-date: A Star is Born
+title: A Star is Born 
+date: 2019-11-23
 category: movies
 ---
  
