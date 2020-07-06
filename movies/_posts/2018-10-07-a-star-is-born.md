@@ -7,7 +7,7 @@ category: movies
  
 [LetterboxD review link](https://letterboxd.com/samarthbhaskar/film/a-star-is-born-2018/)
 
-The first half of this film and every musical performance are among some of the best cinema I saw in 2018. Then the 2nd half confirmed my fear before going into this film: that the "star" in in <em>A Star is Born</em>, according to Bradley Cooper, is Bradley Cooper.
+The first half of this film and every musical performance are among some of the best cinema I saw in 2018. Then the second half confirmed my fear before going into this film - that the "star" in in <em>A Star is Born</em>, according to Bradley Cooper, is Bradley Cooper.
 
 I guess that's what you get when you have Clint Eastwood as your mentor. 
 
