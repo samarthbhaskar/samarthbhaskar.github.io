@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Star Wars: The Force Awakens
+title: Star Wars - The Force Awakens
 date: 2019-12-20
 category: movies
 ---

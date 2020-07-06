@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Star Wars: The Last Jedi
+title: Star Wars - The Last Jedi
 date: 2019-12-20
 category: movies
 ---
