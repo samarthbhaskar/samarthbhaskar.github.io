@@ -12,10 +12,14 @@ description:
 
 author:
   name:           'Samarth Bhaskar'
-  url:            https://twitter.com/samarthbhaskar
+  url:            https://twitter.com/samarth
 
-gems:             [jekyll-paginate]
-paginate:         5
+#gems:             [jekyll-paginate, jekyll-sitemap]
+#paginate:         5
+
+url:              "https://samarthbhaskar.com" 
+plugins:          [jekyll-sitemap, jekyll-feed]
+
 
 # Custom vars
 

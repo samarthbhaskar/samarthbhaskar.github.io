@@ -1,140 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <channel>
-        <title></title>
-        <description></description>      
-        <link></link>
-        <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-        
-            <item>
-                <title>This Boy’s Life</title>
-                        
-                
-                    <description>&lt;p&gt;Tobias Wolff has long been one of my favorite short story writers. I had never read a book-length work from him so while browsing a book store, this book caught my eye. The reading experience, much like Wolff’s short stories, was deceptively easy, seemingly uncomplex and straight forward in a particularly mid-century male American way. But what brews beneath the simple writing in this book is a story full of pain, anguish, shame and longing.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://samarthbhaskar.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://samarthbhaskar.com/" rel="alternate" type="text/html" /><updated>2020-07-26T14:21:52-04:00</updated><id>https://samarthbhaskar.com/feed.xml</id><title type="html">Samarth Bhaskar</title><subtitle>Personal site source code</subtitle><author><name>Samarth Bhaskar</name></author><entry><title type="html">The Assistant</title><link href="https://samarthbhaskar.com/movies/the-assistant/" rel="alternate" type="text/html" title="The Assistant" /><published>2020-07-24T00:00:00-04:00</published><updated>2020-07-24T00:00:00-04:00</updated><id>https://samarthbhaskar.com/movies/the-assistant</id><content type="html" xml:base="https://samarthbhaskar.com/movies/the-assistant/">&lt;p&gt;&lt;a href=&quot;&quot;&gt;LetterboxD review link&lt;/a&gt;&lt;/p&gt;</content><author><name>Samarth Bhaskar</name></author><category term="movies" /><summary type="html">LetterboxD review link</summary></entry><entry><title type="html">Groundhog Day</title><link href="https://samarthbhaskar.com/movies/groundhog-day/" rel="alternate" type="text/html" title="Groundhog Day" /><published>2020-07-22T00:00:00-04:00</published><updated>2020-07-22T00:00:00-04:00</updated><id>https://samarthbhaskar.com/movies/groundhog-day</id><content type="html" xml:base="https://samarthbhaskar.com/movies/groundhog-day/">&lt;p&gt;&lt;a href=&quot;&quot;&gt;LetterboxD review link&lt;/a&gt;&lt;/p&gt;</content><author><name>Samarth Bhaskar</name></author><category term="movies" /><summary type="html">LetterboxD review link</summary></entry><entry><title type="html">Educated</title><link href="https://samarthbhaskar.com/books/educated/" rel="alternate" type="text/html" title="Educated" /><published>2020-07-20T00:00:00-04:00</published><updated>2020-07-20T00:00:00-04:00</updated><id>https://samarthbhaskar.com/books/educated</id><content type="html" xml:base="https://samarthbhaskar.com/books/educated/">&lt;p&gt;After hearing about this book everywhere last year, and a number of trusted friends counting it as among their favorites of the year, we got around to listening to it on a long summer road trip. There are some tough-to-get-through parts in the first half of the book (only so many descriptions of gruesome accidents before you start to wonder where you’re headed) but Westover bowled us over with this book. The story in and of itself is remarkable but the way Westover (to use her phrase) mines it for meaning, and wrests from it some universal themes about family, struggle, history and identity is the real reward.&lt;/p&gt;
 
-</description>
-                
-                <pubDate>Thu, 02 Feb 2017 00:00:00 -0500</pubDate>
-                <link>/books/this-boys-life/</link>
-                <guid isPermaLink="true">/books/this-boys-life/</guid>
-            </item>
-        
-            <item>
-                <title>About Elly</title>
-                        
-                
-                    <description>&lt;p&gt;&lt;a href=&quot;http://letterboxd.com/samarthbhaskar/film/about-elly/&quot;&gt;LetterboxD review link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Hillybilyl Elegy&lt;/em&gt; got a lot of attention in 2017 for being a story about “forgotten white America,” that would somehow tell us something about our countrymen and women we didn’t know. But, to my mind, this is that story. A story created at the extremes of society but something that has a particularly Americanness to it.&lt;/p&gt;</content><author><name>Samarth Bhaskar</name></author><category term="books" /><summary type="html">After hearing about this book everywhere last year, and a number of trusted friends counting it as among their favorites of the year, we got around to listening to it on a long summer road trip. There are some tough-to-get-through parts in the first half of the book (only so many descriptions of gruesome accidents before you start to wonder where you’re headed) but Westover bowled us over with this book. The story in and of itself is remarkable but the way Westover (to use her phrase) mines it for meaning, and wrests from it some universal themes about family, struggle, history and identity is the real reward.</summary></entry><entry><title type="html">Palm Springs</title><link href="https://samarthbhaskar.com/movies/palm-springs/" rel="alternate" type="text/html" title="Palm Springs" /><published>2020-07-15T00:00:00-04:00</published><updated>2020-07-15T00:00:00-04:00</updated><id>https://samarthbhaskar.com/movies/palm-springs</id><content type="html" xml:base="https://samarthbhaskar.com/movies/palm-springs/">&lt;p&gt;&lt;a href=&quot;&quot;&gt;LetterboxD review link&lt;/a&gt;&lt;/p&gt;</content><author><name>Samarth Bhaskar</name></author><category term="movies" /><summary type="html">LetterboxD review link</summary></entry><entry><title type="html">Irresistible</title><link href="https://samarthbhaskar.com/movies/irresistible/" rel="alternate" type="text/html" title="Irresistible" /><published>2020-07-13T00:00:00-04:00</published><updated>2020-07-13T00:00:00-04:00</updated><id>https://samarthbhaskar.com/movies/irresistible</id><content type="html" xml:base="https://samarthbhaskar.com/movies/irresistible/">&lt;p&gt;&lt;a href=&quot;https://letterboxd.com/samarthbhaskar/film/irresistible-2020/&quot;&gt;LetterboxD review link&lt;/a&gt;&lt;/p&gt;
 
-</description>
-                
-                <pubDate>Tue, 31 Jan 2017 00:00:00 -0500</pubDate>
-                <link>/movies/about-elly/</link>
-                <guid isPermaLink="true">/movies/about-elly/</guid>
-            </item>
-        
-            <item>
-                <title>Fatima</title>
-                        
-                
-                    <description>&lt;p&gt;&lt;a href=&quot;http://letterboxd.com/samarthbhaskar/film/fatima-2015/&quot;&gt;LetterboxD review link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As a once-and-again-sort-of-now political professional, who lives in NYC, and grew up in the Midwest, I feel it is not possible for me to ethically review this film. Or, perhaps, I am one of very few people who should review this film.&lt;/p&gt;
 
-</description>
-                
-                <pubDate>Mon, 30 Jan 2017 00:00:00 -0500</pubDate>
-                <link>/movies/fatima/</link>
-                <guid isPermaLink="true">/movies/fatima/</guid>
-            </item>
-        
-            <item>
-                <title>The Salesman</title>
-                        
-                
-                    <description>&lt;p&gt;&lt;a href=&quot;http://letterboxd.com/samarthbhaskar/film/the-salesman-2016/&quot;&gt;LetterboxD review link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As a once-upon-a-time journalist, I can say with confidence, that on the list of people who should make a film like this, it should not be Jon Stewart.&lt;/p&gt;</content><author><name>Samarth Bhaskar</name></author><category term="movies" /><summary type="html">LetterboxD review link</summary></entry><entry><title type="html">The Firm</title><link href="https://samarthbhaskar.com/movies/the-firm/" rel="alternate" type="text/html" title="The Firm" /><published>2020-07-12T00:00:00-04:00</published><updated>2020-07-12T00:00:00-04:00</updated><id>https://samarthbhaskar.com/movies/the-firm</id><content type="html" xml:base="https://samarthbhaskar.com/movies/the-firm/">&lt;p&gt;&lt;a href=&quot;https://letterboxd.com/samarthbhaskar/film/the-firm-1993/&quot;&gt;LetterboxD review link&lt;/a&gt;&lt;/p&gt;
 
-</description>
-                
-                <pubDate>Sun, 29 Jan 2017 00:00:00 -0500</pubDate>
-                <link>/movies/the-salesman/</link>
-                <guid isPermaLink="true">/movies/the-salesman/</guid>
-            </item>
-        
-            <item>
-                <title>Unbreakable</title>
-                        
-                
-                    <description>&lt;p&gt;&lt;a href=&quot;http://letterboxd.com/samarthbhaskar/film/unbreakable/&quot;&gt;LetterboxD review link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;John Grisham fucking loves lawyering. Who is the John Grisham of software engineering? Who is the John Grisham of teachers, of firefighters, of grocery store workers? Maybe every profession needs a story teller who can talk about the values, ethics and culture of their industry. And maybe that person should love that profession as much as John Grisham loves lawyering (and hates basically everything else, including government).&lt;/p&gt;</content><author><name>Samarth Bhaskar</name></author><category term="movies" /><summary type="html">LetterboxD review link</summary></entry><entry><title type="html">Hamilton</title><link href="https://samarthbhaskar.com/movies/hamilton/" rel="alternate" type="text/html" title="Hamilton" /><published>2020-07-07T00:00:00-04:00</published><updated>2020-07-07T00:00:00-04:00</updated><id>https://samarthbhaskar.com/movies/hamilton</id><content type="html" xml:base="https://samarthbhaskar.com/movies/hamilton/">&lt;p&gt;&lt;a href=&quot;https://letterboxd.com/samarthbhaskar/film/hamilton-2020/&quot;&gt;LetterboxD review link&lt;/a&gt;&lt;/p&gt;
 
-</description>
-                
-                <pubDate>Sat, 28 Jan 2017 00:00:00 -0500</pubDate>
-                <link>/movies/unbreakable/</link>
-                <guid isPermaLink="true">/movies/unbreakable/</guid>
-            </item>
-        
-            <item>
-                <title>Split</title>
-                        
-                
-                    <description>&lt;p&gt;&lt;a href=&quot;http://letterboxd.com/samarthbhaskar/film/split-2016/&quot;&gt;LetterboxD review link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;American Shen-Yun, turns out, is pretty good!&lt;/p&gt;</content><author><name>Samarth Bhaskar</name></author><category term="movies" /><summary type="html">LetterboxD review link</summary></entry><entry><title type="html">Jurassic Park</title><link href="https://samarthbhaskar.com/movies/jurassic-park/" rel="alternate" type="text/html" title="Jurassic Park" /><published>2020-07-06T00:00:00-04:00</published><updated>2020-07-06T00:00:00-04:00</updated><id>https://samarthbhaskar.com/movies/jurassic-park</id><content type="html" xml:base="https://samarthbhaskar.com/movies/jurassic-park/">&lt;p&gt;&lt;a href=&quot;https://letterboxd.com/samarthbhaskar/film/jurassic-park/&quot;&gt;LetterboxD review link&lt;/a&gt;&lt;/p&gt;
 
-</description>
-                
-                <pubDate>Sat, 28 Jan 2017 00:00:00 -0500</pubDate>
-                <link>/movies/split/</link>
-                <guid isPermaLink="true">/movies/split/</guid>
-            </item>
-        
-            <item>
-                <title>Small Great Things</title>
-                        
-                
-                    <description>&lt;p&gt;I read Roxanne Gay’s &lt;a href=&quot;https://www.nytimes.com/2016/10/16/books/review/jodi-picoult-small-great-things-roxane-gay.html?&quot;&gt;review&lt;/a&gt; of &lt;em&gt;Small Great Things&lt;/em&gt; in the New York Times Book Review before reading the book. After reading the book, I largely agree. This is a book largely written for a white audience, one that doesn’t engage with race and racism in America in any advanced or complicated way regularly. Jodi Picoult even says so much in her author’s note at the end of the book.&lt;/p&gt;
+&lt;p&gt;A great drive-in movie to go see while visiting family.&lt;/p&gt;
 
-</description>
-                
-                <pubDate>Thu, 26 Jan 2017 00:00:00 -0500</pubDate>
-                <link>/books/small-great-things/</link>
-                <guid isPermaLink="true">/books/small-great-things/</guid>
-            </item>
-        
-            <item>
-                <title>Little Men</title>
-                        
-                
-                    <description>&lt;p&gt;&lt;a href=&quot;http://letterboxd.com/samarthbhaskar/film/little-men-2016/&quot;&gt;LetterboxD review link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Although, the part where we locked ourselves out of the car as soon as we got to the drive-in, had to call the cops to come unlock us, and the Lady Cop who showed up and used all sorts of nifty things to unlock the car but didn’t say something like, “It’s a Unix System, I know this!” left me a little bummed out.&lt;/p&gt;</content><author><name>Samarth Bhaskar</name></author><category term="movies" /><summary type="html">LetterboxD review link</summary></entry><entry><title type="html">The Way Back</title><link href="https://samarthbhaskar.com/movies/the-way-back/" rel="alternate" type="text/html" title="The Way Back" /><published>2020-07-03T00:00:00-04:00</published><updated>2020-07-03T00:00:00-04:00</updated><id>https://samarthbhaskar.com/movies/the-way-back</id><content type="html" xml:base="https://samarthbhaskar.com/movies/the-way-back/">&lt;p&gt;&lt;a href=&quot;https://letterboxd.com/samarthbhaskar/film/the-way-back-2020/&quot;&gt;LetterboxD review link&lt;/a&gt;&lt;/p&gt;
 
-</description>
-                
-                <pubDate>Wed, 25 Jan 2017 00:00:00 -0500</pubDate>
-                <link>/movies/little-men/</link>
-                <guid isPermaLink="true">/movies/little-men/</guid>
-            </item>
-        
-            <item>
-                <title>Children of Men</title>
-                        
-                
-                    <description>&lt;p&gt;&lt;a href=&quot;http://letterboxd.com/samarthbhaskar/film/children-of-men/&quot;&gt;LetterboxD review link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Despite having a huge back, Affleck had a hard time carrying this entire movie on his own. Compared to &lt;em&gt;Warrior&lt;/em&gt;, a fantastic film, &lt;em&gt;The Way Back&lt;/em&gt; feels way heavier on its feet. The basketball scenes are done well enough to make that part engaging. But, again, &lt;em&gt;Warrior&lt;/em&gt;’s fight sequences were some of the best choreographed athletics on screen I’ve ever seen.&lt;/p&gt;
 
-</description>
-                
-                <pubDate>Mon, 23 Jan 2017 00:00:00 -0500</pubDate>
-                <link>/movies/children-of-men/</link>
-                <guid isPermaLink="true">/movies/children-of-men/</guid>
-            </item>
-        
-            <item>
-                <title>Moonglow</title>
-                        
-                
-                    <description>&lt;p&gt;Michael Chabon’s authorial distance from the narrator of this book, Mike, is at hard to discern. Chabon, reportedly, had a similar experience as his narrator, talking with this grandfather on his death bed in the late 1980s. It seems he used this experience as a jumping point to write this novel. Chabon’s patented ornate, technically proficient writing is on display in this book. I happened to listen to it as an audio-book (something I don’t do often), and the words are even more pleasurable as speech. But sometimes this talent and embellishment gets in the way of what’s most important: the story.&lt;/p&gt;
+&lt;p&gt;Let’s see if Gavin O’Connor can find his…way back…to those heights.&lt;/p&gt;</content><author><name>Samarth Bhaskar</name></author><category term="movies" /><summary type="html">LetterboxD review link</summary></entry><entry><title type="html">Desperados</title><link href="https://samarthbhaskar.com/movies/desperados/" rel="alternate" type="text/html" title="Desperados" /><published>2020-07-03T00:00:00-04:00</published><updated>2020-07-03T00:00:00-04:00</updated><id>https://samarthbhaskar.com/movies/desperados</id><content type="html" xml:base="https://samarthbhaskar.com/movies/desperados/">&lt;p&gt;&lt;a href=&quot;https://letterboxd.com/samarthbhaskar/film/desperados/&quot;&gt;LetterboxD review link&lt;/a&gt;&lt;/p&gt;
 
-</description>
-                
-                <pubDate>Sun, 22 Jan 2017 00:00:00 -0500</pubDate>
-                <link>/books/moonglow/</link>
-                <guid isPermaLink="true">/books/moonglow/</guid>
-            </item>
-        
-    </channel>
-</rss>
+&lt;p&gt;We’ll press play on anything these days, we’re quite…desperado. But this made me increasingly more upset over the course of 2 hours.&lt;/p&gt;</content><author><name>Samarth Bhaskar</name></author><category term="movies" /><summary type="html">LetterboxD review link</summary></entry></feed>

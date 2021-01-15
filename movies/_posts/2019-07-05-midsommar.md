@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Midsommar
-date: 2019-04-05
+date: 2019-07-05
 category: movies
 ---
  
